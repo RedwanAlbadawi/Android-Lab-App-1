@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Firebase Signup Login</string>
+    <string name="errorEmailExists">This email is already registered</string>
+    <string name="connectionProblemTitle">No Internet Connection</string>
+    <string name="connectionProblemMessage">You are not connected to internet. check your internet connection.....</string>
+
+
+    <string name="facebook_app_id">258925008491146</string>
+    <string name="fb_login_protocol_scheme">fb258925008491146</string>
+
+
+
+</resources>

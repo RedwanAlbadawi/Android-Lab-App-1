@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1021882100218",
+    "firebase_url": "https://fir-loginsignup-21046.firebaseio.com",
+    "project_id": "fir-loginsignup-21046",
+    "storage_bucket": "fir-loginsignup-21046.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021882100218:android:116faa86336d9114f19c43",
+        "android_client_info": {
+          "package_name": "com.example.vijaya.firebaseloginsignup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021882100218-5pjr8adshupdlqqca1e7otce1iqje86e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsXc7wan-S_31TYpfHtsWc5E8Wo-57WIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021882100218-5pjr8adshupdlqqca1e7otce1iqje86e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
